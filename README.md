@@ -8,6 +8,7 @@ Scooby_Doo is a Scooby Doo colors driven theme, I have never seen those colors c
 .  Highly configurable with 4 different flavours and ability to create your own!
 
 Enjoy! ZOINK
- ![Scooby_Doo_Light_PNG](https://github.com/user-attachments/assets/1c2f5b4e-eb84-4187-8ca5-34dd85f8dfd8)
+
+![Scooby_Doo_Light_PNG](https://github.com/user-attachments/assets/1c2f5b4e-eb84-4187-8ca5-34dd85f8dfd8)
 ![Scooby_Doo_Dark_PNG](https://github.com/user-attachments/assets/30af08be-6c68-4f9e-ad9b-95ec173b3fd7)
 
