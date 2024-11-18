@@ -58,7 +58,6 @@ hi Statement guifg=#7b2e82 guibg=NONE
 hi Operator guifg=#7b2e82 guibg=NONE
 hi cssAttr guifg=#7b2e82 guibg=NONE
 
-
 hi Pmenu guifg=#c95d1c guibg=#454545
 hi SignColumn guibg=#0c0b0b
 hi Title guifg=#c95d1c
