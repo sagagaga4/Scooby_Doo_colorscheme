@@ -1,5 +1,6 @@
 hi clear
 syntax reset
+
 let g:colors_name = "Scooby_Light"
 set background=light
 set t_Co=256
